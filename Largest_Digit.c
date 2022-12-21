@@ -2,6 +2,7 @@
 int main ()
 {
 int num, remider, Largest= 0;
+
 scanf ("%d", &num);
 
 while (num > 0)
