@@ -1,6 +1,5 @@
 #include<stdio.h>
-int main()
-{
+int main(){
     int num1,num2,max_div,flag=1;
     scanf("%d%d",&num1,&num2);
     max_div=(num1>num2)?num1:num2;
